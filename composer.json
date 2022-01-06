@@ -1,0 +1,19 @@
+{
+    "name": "cadronmneal/battleface",
+    "description": "A php script that connects to an api",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cadronmneal\\Battleface\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cadron M Neal",
+            "email": "cadron.neal@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
